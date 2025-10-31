@@ -24,7 +24,8 @@ This project allows users to perform essential banking operations such as **Bala
 ---
 
 ## 🖼️ Output Screenshot
-![Output](src/screenshots/output.png)
+![ATM Output](https://github.com/Pratik476/OIBSIP-ATM-Interface/raw/main/screenshots/output.png)
+
 
 ---
 
